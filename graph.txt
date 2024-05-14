@@ -1,0 +1,10 @@
+Tumkur 220 K_B_Cross,45 Sira,50
+K_B_Cross 155 Tiptur,20 Hosadurga,75
+Sira 185 Hiriyur,40
+Tiptur 135 Arasikere,25
+Hosadurga 105 Arasikere,70  Holalkere,30
+Hiriyur 145 Chitradurga,40 
+Arasikere 110 Shivamogga,110 
+Holalkere 75 Shivamogga,75
+Chitradurga 105 Holalkere,30
+Shivamogga 0
